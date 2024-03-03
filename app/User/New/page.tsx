@@ -2,7 +2,7 @@ import React from 'react'
 
 const NewUser = () => {
   return (
-    <div>NewUser</div>
+    <div>NewUsers</div>
   )
 }
 
